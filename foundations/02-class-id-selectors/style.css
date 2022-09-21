@@ -1,0 +1,19 @@
+p{
+    font-family: "Vernanda", "dejavu sans", sans-serif;
+    background-color: pink;
+}
+
+.two{
+    font-size: 36px;
+    color: blue;
+}
+
+.three{
+    font-size: 24px;
+}
+
+.four{
+    font-size: 24px;
+    background-color: lightgreen;
+    font-weight: bold;
+}
